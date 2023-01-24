@@ -1,3 +1,3 @@
 source venv/bin/activate
-source aws.env
+source access.env
 python3 manage.py runserver 8000
