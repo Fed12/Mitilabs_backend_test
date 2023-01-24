@@ -1,0 +1,6 @@
+POST http://127.0.0.1:8000/visualize/
+
+{
+  "bucket_name": "havtrackwatchappmain42b95d92f7eb4d85aa3b21a88ae125522"-dev
+  "file_name": "Cachedtest_file_(1).xls"
+}
